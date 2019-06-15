@@ -37,6 +37,10 @@ section#post-list article>img {
     width: 100%;
 }
 
+section#post-list article strong {
+    display: flex;
+}
+
 section#post-list article footer {
     padding: 20px;
 }
